@@ -255,6 +255,7 @@ const data = [
       'pariatur',
       'nisi',
       'mollit'
+  }
     ],
     'friends': [
       {
